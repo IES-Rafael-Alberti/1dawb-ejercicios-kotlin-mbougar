@@ -656,3 +656,4 @@ fun u3EjConjuntos06() {
     val letrasComunes = vocales.intersect(consonantes)
     println("Estas son las letras comunes entre las vocales y las consonantes: $letrasComunes")
 }
+

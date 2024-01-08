@@ -18,7 +18,6 @@ fun main() {
 
 }
 
-
 fun mostrarMenuPpal() {
     println("1. Ejercicios U1")
     println("2. Ejercicios U2")
